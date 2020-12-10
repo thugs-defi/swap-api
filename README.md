@@ -78,7 +78,7 @@ Results are edge cached for 24 hours.
     "symbol": "...",      // not necesssarily included for BEP20 tokens
     "id": "0x...",        // the address of the BEP20 token
     "maker_fee": "0",     // always 0
-    "taker_fee": "0.003", // always 0.003 i.e. .3%
+    "taker_fee": "0.004", // always 0.004 i.e. .4%
   },
   // ...
 }
